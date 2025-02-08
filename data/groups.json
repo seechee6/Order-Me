@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Mala Hotpot Express",
+      "reviews": 620,
+      "rating": 4.8,
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX-PA0ph5_1TW_zqdTGw9MzdktVA8InkNg0w&s"
+    },
+    {
+      "name": "Sweet Slice Bakery",
+      "reviews": 290,
+      "rating": 4.5,
+      "image":"https://fruitbasket.limepack.com/blog/wp-content/uploads/2024/06/assorted-pastries-arranged-in-dispaly.jpg"
+    },
+    {
+      "name": "Noodle House",
+      "reviews": 360,
+      "rating": 4.4,
+       "image":"https://www.avenuek.com.my/wp-content/uploads/2019/03/AK-gonoodles-2020.jpg"
+    }
+  ]
+  

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Sister Fen",
+    "cuisine": "Mix Rice",
+    "location": "1.5km away",
+    "rating": 4.8,
+    "priceRange": "$$$",
+    "isOpen": false,
+    "imageUrl": "https://www.sinchew.com.my/wp-content/uploads/2022/08/efbc88108efbc8fe69c89e69585e4ba8be79a84e4babaefbc89e68891e68a8ae69d82e88f9ce9a5ade585a5e9a9bbe6a79fe5b29b-e590b4e88da3e5beb7-1.jpg",
+    "description": "A cozy spot offering traditional sushi and sashimi along with modern Japanese dishes.",
+    "category": "Mix Rice"
+  },
+  {
+    "id": "2",
+    "name": "JoJoe",
+    "cuisine": "Mix Rice",
+    "location": "3km away",
+    "rating": 4.3,
+    "priceRange": "$$",
+    "isOpen": false,
+    "imageUrl": "https://media-kul2-1.cdn.whatsapp.net/v/t61.24694-24/383808746_317443217602701_295512828894206634_n.jpg?stp=dst-jpg_tt6&ccb=11-4&oh=01_Q5AaIKFUcDi4lfk_b2suJ7inOYVBLoFVICwG-ZKVPCxhtb1h&oe=6764EB8F&_nc_sid=5e03e0&_nc_cat=107",
+    "description": "A popular burger joint known for its gourmet burgers and hand-cut fries.",
+    "category": "Mix Rice"
+  },
+  {
+    "id": "3",
+    "name": "Umi Kitchen Bajet",
+    "cuisine": "Indian",
+    "location": "2km away",
+    "rating": 4.7,
+    "priceRange": "$$$",
+    "isOpen": true,
+    "imageUrl": "https://media-kul3-1.cdn.whatsapp.net/v/t61.24694-24/216189582_394697498862105_748793970515093871_n.jpg?stp=dst-jpg_tt6&ccb=11-4&oh=01_Q5AaIBk0-XIRrj3fkFXhqA6sZ32pu7IOiW37lyTL-1tfVNXd&oe=6762F234&_nc_sid=5e03e0&_nc_cat=103",
+    "description": "Authentic Indian cuisine with a wide variety of vegetarian and non-vegetarian options.",
+    "category": "Western Food"
+  },
+  {
+    "id": "4",
+    "name": "感恩 Vegetarian",
+    "cuisine": "Italian",
+    "location": "Taman Universiti",
+    "rating": 4.5,
+    "priceRange": "$$",
+    "isOpen": true,
+    "imageUrl": "https://scontent-kul2-2.xx.fbcdn.net/v/t39.30808-6/313431247_636377334854221_2975468046593803351_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0-a2ju60CE8Q7kNvgELsyuf&_nc_zt=23&_nc_ht=scontent-kul2-2.xx&_nc_gid=AIrtwGLtM8cpdiqPseSFphj&oh=00_AYDd96lVdWOdAZ8FzsTuINPQtrLYOYBtZNoBp3AQ93O9yw&oe=675DA936",
+    "description": "Family-owned Italian restaurant with handmade pasta and wood-fired pizzas.",
+    "category": "Vegetarian"
+  },
+  {
+    "id": "5",
+    "name": "No.80 Fruits",
+    "cuisine": "Vegan",
+    "location": "202 Greenway, Austin, TX",
+    "rating": 4.6,
+    "priceRange": "$$",
+    "isOpen": false,
+    "imageUrl": "https://scontent-kul2-1.xx.fbcdn.net/v/t39.30808-1/448546661_1450255028945732_6544708368662562074_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=104&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=RgjIOUcdFDYQ7kNvgGTZaB0&_nc_zt=24&_nc_ht=scontent-kul2-1.xx&_nc_gid=AyRryK_MGxS7FR1tif4fXg3&oh=00_AYD5fI_Y5yjeeAiRwpwJxrMnMdd9CfcASJjoRPUeRA7I2g&oe=675DADB4",
+    "description": "A plant-based eatery serving fresh and flavorful vegan dishes.",
+    "category": "Fruits"
+  }
+]
