@@ -1,4 +1,4 @@
-### **OrderMe - Food delivery app**
+# **OrderMe - Food delivery app**
 
 > [User Interfaces](https://docs.google.com/document/d/1RHO4983Og7VBpnoo8wUgHL3-verOnwb7OYpVbh8CHCg/edit?usp=sharing)
 
